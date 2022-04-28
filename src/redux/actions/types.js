@@ -1,0 +1,3 @@
+export const GET_PRODUCT_INFO = "GET_PRODUCT_INFO"
+export const GET_PRODUCT_ERROR = "const GET_PRODUCT_ERROR"
+export const CHANGE_THEME = "CHANGE_THEME"
